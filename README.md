@@ -38,7 +38,7 @@ Tech- stacks used:
 5. Dialogflow
 Install Dependencies Download the credential for Google Vision API. Copy and paste the files at thr required position.
 
-   git clone https://github.com/Sumanthkumar2002/-VisioVoice-Assistant-for-blind.git
+   git clone https://github.com/Ajaysai2001/VisioVoice_Assistant-for-blinds.git
    cd DobaraMatPuchana
    pip install -r requirements.txt
 Run Code:
